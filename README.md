@@ -9,4 +9,4 @@ This repository contains a tutorial for the deconfounder.
 
 Complete details of this work can be found in:
 
-Wang, Yixin, and David M. Blei. "The Blessings of Multiple Causes." arXiv preprint arXiv:1805.06826 (2018).
+Yixin Wang and David M. Blei. "The Blessings of Multiple Causes." arXiv preprint arXiv:1805.06826 (2018).
