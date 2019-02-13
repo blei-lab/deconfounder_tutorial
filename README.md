@@ -1,11 +1,13 @@
+# The Blessings of Multiple Causes: A Tutorial
+
 This repository contains a tutorial for the deconfounder.
 
-# Run the code with google colab
+## Run the code with google colab
 
 <http://colab.research.google.com/github/blei-lab/deconfounder_tutorial/blob/master/deconfounder_tutorial.ipynb>
 
 
-# More information
+## More information
 
 Complete details of this work can be found in:
 
